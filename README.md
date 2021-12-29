@@ -1,2 +1,2 @@
 # SQL
-SQL Work
+Created SQL Database and executed queries on it. 
